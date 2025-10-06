@@ -1,0 +1,32 @@
+<!DOCTYPE dog_daycare SYSTEM "dog_daycare.dtd">
+<dog_daycare>
+    <owners>
+        <owner>
+            <ow_name>Felipe García</ow_name>
+            <ow_dni>12345678A</ow_dni>
+            <ow_contact>
+                <email></email>
+                <phone>123456789</phone>
+            </ow_contact>
+            <dogs>
+                <dog>
+                    <dog_name>Billy</dog_name>
+                    <dog_age>6</dog_age>
+                    <dog_sex>Male</dog_sex>
+                    <dog_breed>Shiba Inu</dog_breed>
+                    <dog_size>Small/Medium</dog_size>
+                    <dog_weight>10</dog_weight>
+                    <dog_height>35</dog_height>
+                    <medical_cond>
+                        <medical_cond_name>None</medical_cond_name>
+                        <medical_cond_treatment>None</medical_cond_treatment>
+                    </medical_cond>
+                    <extras>
+                        <ex_behavior>Sociable</ex_behavior>
+                        <ex_chipnumber>45678148B</ex_chipnumber>
+                    </extras>
+                </dog>
+            </dogs>
+        </owner>
+    </owners>
+</dog_daycare>
